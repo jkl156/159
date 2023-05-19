@@ -16,14 +16,7 @@ a{
 h1{
 	color: white;
 }
-a-d{
-	color: white;
-	font-size:25px;
-	display: inline-block;
-	transform: translate(9em, 0em);
-	position:relative;
-	top:-125px;
-}
+
 font{
 	font-size:70px;
 	color: white;
@@ -48,10 +41,6 @@ span {
 	<a href="file:///C:/Users/Niksoft/Desktop/WER/jkl.html">
 	<h1>Миню<h1>
 	</a>
-
-  <a-d href="https://www.youtube.com">
-  <h1>Youtube<h1>
-    </a-d>
 </body>
 </heady>
 <body>
