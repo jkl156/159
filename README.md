@@ -1,1 +1,63 @@
-# 159
+﻿<htmi>
+<head>
+    <meta charset="UTF-8">
+    <title>Мой сайт на время</title>
+</head>
+	<style>
+		body{
+	background-color: #1c1c1d;
+}
+a{
+	color: white;
+	font-size:25px;
+	display: inline-block;
+	transform: translate(1em, 0em);
+}
+h1{
+	color: white;
+}
+a-d{
+	color: white;
+	font-size:25px;
+	display: inline-block;
+	transform: translate(9em, 0em);
+	position:relative;
+	top:-125px;
+}
+font{
+	font-size:70px;
+	color: white;
+}
+span {
+	display: inline-block;
+	transform: translate(15em, 2em);
+}
+#img{
+	display: inline-block;
+	transform: translate(15em, 2em);
+  }
+
+	</style>
+<body>
+		<h1 align="center">Сайт</h1>
+</body>
+
+<head>
+<body>
+	<li><a></a></li>
+	<a href="file:///C:/Users/Niksoft/Desktop/WER/jkl.html">
+	<h1>Миню<h1>
+	</a>
+
+  <a-d href="https://www.youtube.com">
+  <h1>Youtube<h1>
+    </a-d>
+</body>
+</heady>
+<body>
+    <h1 align="center">Информация</h1>
+</body>
+<body>
+	<img src="https://yt3.ggpht.com/ytc/AKedOLQCDUneKIZZ5gxvTwduwzLdD9FA2h2TQykPh1-2=s900-c-k-c0x00ffffff-no-rj" alt="my pic" style= "width: 400px; height: 400px; float:left;" id="img">
+</body>
+</html>
